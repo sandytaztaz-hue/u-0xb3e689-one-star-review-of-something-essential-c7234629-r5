@@ -9,7 +9,7 @@ Sleep finally showed up at 4:58 a.m., after eight hours of trying, two minutes b
 ## Run it
 
 ```sh
-cat main.ts
+cat main.ts  # one line, 124 characters
 ```
 
 ---
